@@ -1,1 +1,5 @@
-Hello
+bf.pl
+
+At the moment this is just a perl script, the run it just use:
+$ perl bf.pl [options]
+
